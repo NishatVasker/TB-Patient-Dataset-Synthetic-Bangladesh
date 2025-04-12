@@ -1,4 +1,4 @@
-### **In-Depth Dataset Description:**
+### **Dataset Description:**
 
 This **synthetic dataset** represents **20,000 records** of **Tuberculosis (TB)** patients in **Bangladesh**. It aims to simulate **real-world clinical, diagnostic, and treatment data** based on the **guidelines** and **standards** set by the **World Health Organization (WHO)**, the **National Tuberculosis Control Programme (NTP) of Bangladesh**, and the **Centers for Disease Control and Prevention (CDC)**.
 
